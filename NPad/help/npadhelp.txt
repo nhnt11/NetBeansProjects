@@ -1,0 +1,111 @@
+NPad Help
+
+NPad is a text editor with many great features.
+It can be used by anyone, whether you want to
+just make a note to yourself or write an essay.
+Here is an overview of its features.
+
+1) To create a new file:
+	a) Choose File > New
+	b) Click on the page icon on the toolbar
+	c) Right - Click and choose New
+	d) Press Ctrl - N
+
+2) To open a file:
+	a) Choose File > Open
+	b) Click on the folder icon on the toolbar
+	c) Right - Click and choose Open...
+	d) Press Ctrl - O
+
+3) To save a file under the same name:
+	a) Choose File > Save
+	b) Click on the floppy icon on the tool bar.
+	c) Right - Click and choose Save
+	d) Press Ctrl - S
+
+4) To save a file under a new name:
+	a) Choose File > Save As
+	b) Click on the double floppy icon on
+		the toolbar
+
+5) To print a file:
+	a) Choose File > Print
+	b) Click on the printer icon on the
+		toolbar.
+	c) Right - Click and choose Print
+	d) Press Ctrl - P
+
+6) To cut, copy or paste text:
+	a) Choose Edit > Cut or Edit > Copy
+		or Edit > Paste respectively
+	b) Click on the scissors icon, the double
+		pages icon, or the clipboard icon
+		respectively
+	c) Right - Click and choose Cut, Copy,
+		or Paste respectively
+	d) Press Ctrl - X, Ctrl - C, or Ctrl - V
+		respectively
+
+7) To undo or redo:
+	a) Choose Edit > Undo or Edit > Redo
+		respectively
+	b) Click on the left arrow icon or the
+		right arrow icon on the toolbar
+		respectively.
+	c) Right - Click and choose Undo or
+		Redo respectively
+	d) Press Ctrl - Z or Ctrl - Y respectively
+
+8) To select all text:
+	a) Choose Edit > Select All
+	b) Right - Click and choose Select All
+	c) Press Ctrl - A
+
+9) To insert the date and time:
+	a) Choose Edit > Date/Time Stamp
+	b) Right - Click and choose Date/Time
+		Stamp
+	c) Press Ctrl - D
+
+10) To find and replace text:
+	Choose Tools > Find/Replace or the
+	magnifying glass icon on the toolbar
+	or right - click and choose Find/Replace
+	or press Ctrl - F. A dialog box will pop up.
+	Type the phrase you want to find in the
+	first text field. Type the phrase you want
+	to replace it with in the second text field.
+	Now click on Find or Replace depending
+	on your need. You can replace all occurrences
+	by clicking on Replace All.
+
+11) To go to a line:
+	Choose Tools > Go to Line or right -
+	click and choose Go to Line or press
+	Ctrl - G. Type the line number and press
+	OK.
+
+12) To spell check the file:
+	Choose Tools > Spell Check or the abc icon
+	on the toolbar or right - click and choose
+	Spell Check or press Ctrl - E. Choose one
+	of the similar words listed or type a replace-
+	ment yourself and press replace. You can
+	also ignore the spelling mistake or add the
+	word to the dictionary.
+
+13) To check your spelling as you type:
+	In the Tools menu, make sure that
+	Check Spelling as You Type is checked.
+	Spelling mistakes will be highlighted in orange.
+	You can right - click on a spelling mistake to
+	see a list of similar words.
+
+14) Customising NPad:
+	You can customize NPad to suit your needs.
+	By checking or un-checking various options
+	in the view menu, you can change the way
+	NPad looks. You can also change the font.
+	The look and feel is normally metallic, but
+	you can change it to how it looks like on your
+	operating system.

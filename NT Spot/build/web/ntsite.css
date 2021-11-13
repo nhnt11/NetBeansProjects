@@ -1,0 +1,91 @@
+@charset "utf-8";
+/* CSS Document */
+
+#banner {
+background:url(images/ntsite.png);
+background-repeat:no-repeat;
+height:150px;
+width:800px;
+}
+
+body {
+font-family:Calibri, Trebuchet MS, Delicious, sans-serif;
+font-size:16px;
+}
+
+a#tooCool {
+position: fixed;
+right:0;
+bottom:0;
+display: block;
+height: 80px;
+width: 80px;
+background: url(images/too_cool.png) bottom right no-repeat;
+text-indent: -999em;
+text-decoration: none;
+}
+
+.bg {
+margin-bottom:0px;
+margin-right:0px;
+margin-top:0px;
+background:url(images/background.png);
+background-repeat:repeat-x;
+}
+
+#button {
+background:url(images/button.png);
+text-align:center;
+}
+#button:hover {
+background:url(images/button_over.png);
+}
+#button:active {
+background:url(images/button_down.png);
+}
+
+#tab_ {
+background:url(images/tab.png);
+text-align:center;
+height:50px;
+}
+#tab {
+background:url(images/tab_.png);
+text-align:center;
+padding-left:10px;
+height:50px;
+}
+#tab:hover {
+background:url(images/tab.png);
+text-align:center;
+padding-left:0px;
+height:50px;
+}
+
+a {
+color:#0000CC;
+}
+a:hover {
+color:#0099FF;
+}
+a:focus {
+outline:none;
+}
+a:active {
+color:#00CCFF;
+}
+.h1 {
+color:#0066FF;
+border-bottom:dotted #000099 2px;
+font-size:30px;
+text-shadow: 1px 1px 1px #999;
+}
+.h2 {
+color:#0066FF;
+border-bottom:dotted #000099 2px;
+font-size:24px;
+text-shadow: 1px 1px 1px #999;
+}
+p {
+padding-left:25px;
+}
